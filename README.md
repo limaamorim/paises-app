@@ -1,4 +1,4 @@
-# Soccer App
+# Paises App
 
 Aplicativo mobile desenvolvido com **React Native** usando **Expo**, que permite explorar informações de países ao redor do mundo. O app consome a API pública do [REST Countries](https://restcountries.com/) e oferece funcionalidades de busca, favoritos e visualização detalhada de informações geográficas e políticas.
 
